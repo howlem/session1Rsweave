@@ -41,9 +41,9 @@ Sections may use a label\footnote{In fact, you can have a label wherever you thi
 
 \section{Data analysis}\label{datas}
 
-Here you can explain how to get the data.
+Here you can explain how to get the data.%echo=TRUE, see the code; eval=TRUE, run the code (false is opposite)
 
-<<gettingData, echo=TRUE, eval=TRUE>>=
+<<gettingData, echo=TRUE, eval=TRUE>>= MH-gettingdata is title of code for ToC
 # echo: show the code?
 # eval: run the code?
 

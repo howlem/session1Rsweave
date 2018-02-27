@@ -1,0 +1,57 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Heath%
+\ \BBA {} Heath%
+}{%
+Heath%
+\ \BBA {} Heath%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+heath_switch:_2010}
+\APACinsertmetastar {%
+heath_switch:_2010}%
+\begin{APACrefauthors}%
+Heath, C.%
+\BCBT {}\ \BBA {} Heath, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Switch: how to change things when change is hard} {Switch: how
+  to change things when change is hard}\ (\PrintOrdinal{1st ed}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{Broadway Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Magallanes~Reyes%
+}{%
+Magallanes~Reyes%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+magallanes_reyes_introducing_2017}
+\APACinsertmetastar {%
+magallanes_reyes_introducing_2017}%
+\begin{APACrefauthors}%
+Magallanes~Reyes, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Introducing to data science for social and policy research:
+  collecting to organizing data with {R} and {Python}} {Introducing to data
+  science for social and policy research: collecting to organizing data with
+  {R} and {Python}}.
+\newblock
+\APACaddressPublisher{Cambridge, United Kingdom New York, USA Port Melbourne,
+  Australia Delhi, India Singapore}{Cambridge University Press}.
+\newblock
+\APACrefnote{OCLC: 998518603}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

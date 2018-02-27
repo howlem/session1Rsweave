@@ -135,10 +135,11 @@ stargazer(reg1,reg2,covariate.labels=c("Dollars per Student", "Share taking SAT"
 \section{Explaining Citations}\label{citation}
 
 
-Citing requires a \emph{bib} file with all the books. You can create it from Zotero, and then add it here with the command \emph{cite}. For example, open the file named `GovernanceAnalytics' and write the name of the author here.
+Citing requires a \emph{bib} file with all the books. You can create it from Zotero, and then add it here with the command \cite{heath_switch:_2010}. For example, open the file named `GovernanceAnalytics' and write the name of the author here \cite{magallanes_reyes_introducing_2017}.
 
 
 \bibliographystyle{apacite} 
-\bibliography{GovernanceAnalytics} %you can change this 'bibfile' name.
+\bibliography{refs} %you can change this 'bibfile' name.
+
 
 \end{document}
